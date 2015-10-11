@@ -1,0 +1,11 @@
+# Site settings
+title: Modern Web Development in Python
+email: be.picolo@gmail.com
+description: Start developing web applications in python.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://modern-python-web.github.io" # the base hostname & protocol for your site
+twitter_username: BenPicolo
+github_username:  bpicolo
+
+# Build settings
+markdown: kramdown
